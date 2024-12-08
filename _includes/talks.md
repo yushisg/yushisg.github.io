@@ -11,6 +11,8 @@
 <h4 style="margin:0 10px 0;">Recent Talks</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://www.ctc.lang.osaka-u.ac.jp/"><autocolor> Merge of Functional Heads: A  Theory of Amalgamation, Internatioanl Research Network for the Human Language Faculty, JSPS Core-to-Core Program, December 7th, 2024, Osaka University, Osaka, Japan  </autocolor></a></li>
+  <li><a href=""><autocolor> Modeling Syntactic Composition in the brain with Small/Syntactic Language Models, talk at Hiromu Sakai's lab meeting, Waseda University, Tokyo, Japan, Novermber 5th, 2024 </autocolor></a></li>
   <li><a href="https://web.sas.upenn.edu/syntax-lab/"><autocolor>Recombination of Functional Features: A Late-Insertion-Based Exoskeletal Approach to Creoles (with Marlyse Baptista), Penn Syntax Lab meeting, Pennsylvania, US, April 7th, 2023 [online] </autocolor></a></li>
-  <li><a href="https://www.aiyotta.tohoku.ac.jp/sympo2023/"><autocolor>BCCWJ-MRI/MEG. AI Yotta International Symposium. Tohoku University, Sendai, Tokyo, March 10th, 2023 [online]</autocolor></a></li>
+  <li><a href="https://www.aiyotta.tohoku.ac.jp/sympo2023/"><autocolor>BCCWJ-MRI/MEG. AI Yotta International Symposium. Tohoku University, Sendai, Japan, March 10th, 2023 [online]</autocolor></a></li>
 </ul>
