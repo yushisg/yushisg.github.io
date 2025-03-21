@@ -13,7 +13,7 @@ Before joining the University of Osaka, I was a post-doctoral research fellow at
 - **Syntax:** generative grammar, Creole Grammar/Formation
 
 ## News
-- **[Mar. 2025]** Three papers will be presented at [NLP2025](https://anlp.jp/nlp2025/)!
+- **[Mar. 2025]** Three papers were presented at [NLP2025](https://anlp.jp/nlp2025/).
 - **[Feb. 2025]** My reseach grant application [JSPS Grant-in-Aid for Young Scientists ] was accepted!
 - **[Feb. 2025]** A paper was accepted for *Natural Language and Linguistic Theory*.
 - **[Oct. 2024]** An abstract accepted to [SNL2024](https://www.neurolang.org/2024/) as a poster presentation.
