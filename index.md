@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am currently a lecturer at Osaka University. I'm interested in syntax, especially theoretical aspects of generative grammar. I'm also interested in computational neurolinguistics.
+I am currently a lecturer at Osaka University. My current intererst is computational neurolinguistics: Investigating human sentence processing in the brain by leveraging computational models.
 
-Before joining Osaka University, I was a post-doctoral research fellow at University of Tokyo (Yohei Oseki's lab). I had obtained my Ph.D in Linguistics from the Department of Linguistics at University of Michigan, Ann Arbor. During my Ph.D years, I lost my advisor ([Sam Epstein](https://lsa.umich.edu/linguistics/people/in-memoriam/samuel-david-epstein.html)). However, I got lucky to have [Acrisio Pires](https://lsa.umich.edu/linguistics/people/faculty/tenure-track-faculty/pires.html) and [Marlyse Baptista](https://www.ling.upenn.edu/people/marlyse-baptista) as my advisors.
+Before joining Osaka University, I was a post-doctoral research fellow at University of Tokyo (Yohei Oseki's lab). I had obtained my Ph.D in Linguistics from the Department of Linguistics at University of Michigan, Ann Arbor. During my Ph.D years, I lost my advisor ([Sam Epstein](https://lsa.umich.edu/linguistics/people/in-memoriam/samuel-david-epstein.html)). However, I got lucky to have [Acrisio Pires](https://lsa.umich.edu/linguistics/people/faculty/tenure-track-faculty/pires.html) and [Marlyse Baptista](https://www.ling.upenn.edu/people/marlyse-baptista) as my advisors. Since my Ph.D period, I've been collaborating with my colleagues, [Alan Ke](https://hezaoke.weebly.com/) and [Andrew McInnerney](https://lsa.umich.edu/linguistics/people/faculty/lecturers/amcin.html).
 
 ## Research Interests
-
-- **Syntax:** generative grammar
-- **Creole Formation:** functional features
-- **Computational Neurolinguistics:** naturalistic methods, fMRI, MEG
+- **Computational Neurolinguistics:** naturalistic methods; cognitive modeling; fMRI, MEG, EEG
+- **Syntax:** generative grammar, Creole Grammar/Formation
 
 ## News
-
+- **[Mar. 2025]** Three papers will be presented at [NLP2025](https://anlp.jp/nlp2025/)!
+- **[Feb. 2025]** My reseach grant application [JSPS Grant-in-Aid for Young Scientists ] was accepted!
+- **[Feb. 2025]** A paper was accepted for *Natural Language and Linguistic Theory*.
 - **[Oct. 2024]** An abstract accepted to [SNL2024](https://www.neurolang.org/2024/) as a poster presentation.
-- **[Aug. 2024]** I presented my recent work on remnant movement at [ICSS2024](https://sites.google.com/view/icss2024/home).
 
 {% include_relative _includes/publications.md %}
 
