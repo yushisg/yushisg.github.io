@@ -12,6 +12,7 @@
 <h4 style="margin:0 10px 0;">Recent Talks</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://www.icl.keio.ac.jp/colo/2025/04/202551011.html"><autocolor>　Current Issues in Minimalism : GK, MC and beyond?, May 10-11th, 2025, Keio University, Tokyo, Japan  </autocolor></a></li>
   <li><a href="https://www.ctc.lang.osaka-u.ac.jp/"><autocolor> Merge of Functional Heads: A  Theory of Amalgamation, Internatioanl Research Network for the Human Language Faculty, JSPS Core-to-Core Program, December 7th, 2024, Osaka University, Osaka, Japan  </autocolor></a></li>
   <li><a href=""><autocolor> Modeling Syntactic Composition in the brain with Small/Syntactic Language Models, talk at Hiromu Sakai's lab meeting, Waseda University, Tokyo, Japan, Novermber 5th, 2024 </autocolor></a></li>
   <li><a href="https://web.sas.upenn.edu/syntax-lab/"><autocolor>Recombination of Functional Features: A Late-Insertion-Based Exoskeletal Approach to Creoles (with Marlyse Baptista), Penn Syntax Lab meeting, Pennsylvania, US, April 7th, 2023 [online] </autocolor></a></li>
