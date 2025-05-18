@@ -5,6 +5,12 @@ main:
     page: https://doi.org/10.1007/s11049-025-09662-8
     notes: Journal article
   
+  - title: "When the Grammar Doesn't Mind Which Merge It Chooses"
+    authors: Anread Blümel, Nobu Goto, Yushi Sugimoto
+    conference: Proceedings of the 39th West Coast Conference on Formal Linguistics, ed. Robert Autry et al., 61-70. Somerville, MA: Cascadilla Proceedings Project.
+    page: https://www.lingref.com/cpp/wccfl/39/paper3617.pdf
+    notes: Proceeding paper
+
   - title: "Localizing Syntactic Composition with Left-Corner Recurrent Neural Network Grammars"
     authors: Yushi Sugimoto, Ryo Yoshida, Hyeonjeong Jeong, Masatoshi Koizumi, Jonathan R. Brennan, Yohei Oseki
     conference: Neurobiology of Language,  vol. 5, no. 1, pp. 201-224. 2024.
