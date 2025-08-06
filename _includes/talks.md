@@ -8,7 +8,6 @@
   San Francisco, US. July 31st, 2025 [*co-first authors, poster]</autocolor></a></li>
   <li><a href="https://www.anlp.jp/proceedings/annual_meeting/2025/"><autocolor>Yushi Sugimoto, Ryo Yoshida, Hyeojeong Jeong, Akitake Kanno, Masatoshi Koizumi, and Yohei Oseki. 2025. BCCWJ-MEG: Development of Japanese Magnetocencephalography Data. The Thirty-first Annual Meeting of the Association for Natural Language Processing Nagasaki, Japan, March 12, 2025.  [poster]</autocolor></a></li>
   <li><a href="https://www.neurolang.org/2024/presentation/?id=322"><autocolor>Yushi Sugimoto, Ryo Yoshida, Hyeojeong Jeong, Akitake Kanno, Masatoshi Koizumi, and Yohei Oseki. 2024.Investigating Syntactic Attention in the brain. Society for the Neurobiology of Language 16th Annual Meeting, Brisbane, Australia, October 24-26, 2024.  [poster]</autocolor></a></li>
-  <li><a href="https://sites.google.com/view/icss2024/home?authuser=0/"><autocolor> Yushi Sugimoto. 2024. Boxing and Remnant Movement. SMOG & ANU International Conference on Syntax and Semantics (ICSS2024), Andong National University, Southern Korea, August 20, 20024. [online] [Invited]</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Recent Talks</h4>
