@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Recent Conference Presentations</h4>
 
 <ul style="margin:0 0 5px;">
+ <li><a href="https://conf.hit.ac.il/isbfc/"><autocolor>Itsuki Hamada, Yushi Sugimoto, Yohei Oseki, Michiru Makuuchi, and Hiromu Sakai. 2025.  Neural correlates of prediction in language comprehension: An MEG study on Japanese classifier-noun processing International Symposium on Brain Function and Cognition: Neural Codes of Language and Action. Waseda University, Tokyo. Sept 9th, 2025</autocolor></a></li>
   <li><a href="https://cognitivesciencesociety.org/cogsci-2025/"><autocolor>Shinnosuke Isono*, Kohei Kajikawa*, Yushi Sugimoto*, Masayuki Asahara, and Yohei Oseki.
   2025. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. The 47th Annual Meeting of the Cognitive Science Society (CogSci). Marriott Marquis,
   San Francisco, US. July 31st, 2025 [*co-first authors, poster]</autocolor></a></li>

@@ -1,15 +1,27 @@
 main:
-  - title: "Lack of c-command in coordinate structures: Evidence from binding"
+   - title: "Investigating Psychometric Predictive Power of Syntactic Attention  "
+    authors: Ryo Yoshida, Yushi Sugimoto, Yohei Oseki
+    conference: Proceedings of the 29th Conference on Computational Natural Language Learning, 407-418
+    page: https://aclanthology.org/2025.conll-1.27/
+    notes: Proceedings paper
+
+  - title: "If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?"
+    authors: Ryo Yoshida, Shinnosuke Isono, Kohei Kajikawa, Taiga Someya, Yushi Sugimoto, Yohei Oseki 
+    conference: Proceedings of the Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 9795-9812
+    page: https://aclanthology.org/2025.acl-long.483/
+    notes: Proceedings paper
+
+   - title: "Lack of c-command in coordinate structures: Evidence from binding"
     authors: Alan Hezao Ke, Andrew McInnerney, Yushi Sugimoto 
     conference: Natural Language and Linguistic Theory
     page: https://doi.org/10.1007/s11049-025-09662-8
     notes: Journal article
-  
-  - title: "When the Grammar Doesn't Mind Which Merge It Chooses"
-    authors: Andreas Blümel, Nobu Goto, Yushi Sugimoto
-    conference: Proceedings of the 39th West Coast Conference on Formal Linguistics, ed. Robert Autry et al., 61-70. Somerville; MA, Cascadilla Proceedings Project.
-    page: https://www.lingref.com/cpp/wccfl/39/paper3617.pdf
-    notes: Proceeding paper
+
+   - title: "JCoLA: Japanese Corpus of Linguistic Acceptability "
+    authors:  Taiga Someya, Yushi Sugimoto, Yohei Oseki
+    conference: Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 9477-9488
+    page: https://aclanthology.org/2024.lrec-main.828/
+    notes: Proceedings paper
 
   - title: "Localizing Syntactic Composition with Left-Corner Recurrent Neural Network Grammars"
     authors: Yushi Sugimoto, Ryo Yoshida, Hyeonjeong Jeong, Masatoshi Koizumi, Jonathan R. Brennan, Yohei Oseki
@@ -24,44 +36,14 @@ main:
     page: https://www.cambridge.org/core/elements/abs/merge-and-the-strong-minimalist-thesis/F44DB97F68BB3A5CDB58A4684A3E5E6B
     notes: Book
 
-  - title: "A Parameter-free Underspecification Approach to Complementizer Agreement"
-    authors: Yushi Sugimoto, Acrisio Pires
-    conference: Revista Linguí∫tica vol. 18, no. 1, pp. 62-81. 2023.
-    page: https://revistas.ufrj.br/index.php/rl/article/view/56350
-    notes: Journal article
-
   - title: "Backgroundedness Predicts Island Status of Non-finite Adjuncts in English"
     authors: Savithry Namboodiripad, Nicole Cuneo, Mathew A Kramer, Yourdanis Sedarous, Felicia Bisnath, Yushi Sugimoto, Adele Goldberg
     conference: Proceedings of the 44th Annual Meeting of the Cognitive Science Society, pp. 1087-1093. 2022.
     page: https://escholarship.org/uc/item/236280w2#main
     notes: Proceeding paper
 
-  - title: "On dissociating adjunct island and subject island effects"
-    authors: Andrew McInnerney, Yushi Sugimoto
-    conference: Proceedings of the Linguistic Society of America, vol.7 no.1, 2022.
-    page: https://doi.org/10.3765/plsa.v7i1.5207
-    notes: Proceeding paper  
-
   - title: "A Late-Insertion-Based Exoskeletal Approach to the Hybrid Nature of Functional Features in Creole Languages"
     authors: Yushi Sugimoto, Marlyse Baptista
     conference: Languages 7:2, 2022.
     page: https://www.mdpi.com/2226-471X/7/2/92
     notes: Journal article
-
-  - title: "Labeling Defective T"
-    authors: Yushi Sugimoto
-    conference: Studia Linguistica vol. 75 no. 1, 150-164. 2021.
-    page: https://onlinelibrary.wiley.com/doi/abs/10.1111/stul.12154
-    notes: Journal article   
-
-
-  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  #   conference_short: CVPR
-  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
