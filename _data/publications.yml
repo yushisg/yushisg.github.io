@@ -7,7 +7,7 @@ main:
 
   - title: "If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?"
     authors: Ryo Yoshida, Shinnosuke Isono, Kohei Kajikawa, Taiga Someya, Yushi Sugimoto, Yohei Oseki 
-    conference: Proceedings of the Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 9795-9812, 2025
+    conference: Proceedings of the Annual Meeting of the Association for Computational Linguistics (Volume 1, Long Papers), pp. 9795-9812, 2025
     page: https://aclanthology.org/2025.acl-long.483/
     notes: Proceedings paper
 
@@ -30,7 +30,7 @@ main:
     page: https://doi.org/10.1162/nol_a_00118
     notes: Journal article
 
-  - title: "Merge and the Strong Minimalist Thesis (Elements in Generative Syntax)."
+  - title: "Merge and the Strong Minimalist Thesis (Elements in Generative Syntax)"
     authors: Noam Chomsky, T. Daniel Seely, Robert C. Berwick, Sandiway Fong, M. A. C. Huybregts, Hisatsugu Kitahara, Andrew McInnerney, Yushi Sugimoto
     conference: Cambridge University Press. 2023.
     page: https://www.cambridge.org/core/elements/abs/merge-and-the-strong-minimalist-thesis/F44DB97F68BB3A5CDB58A4684A3E5E6B
