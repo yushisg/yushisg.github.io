@@ -1,5 +1,5 @@
 main:
-   - title: "Investigating Psychometric Predictive Power of Syntactic Attention"
+  - title: "Investigating Psychometric Predictive Power of Syntactic Attention"
     authors: Ryo Yoshida, Yushi Sugimoto, Yohei Oseki
     conference: Proceedings of the 29th Conference on Computational Natural Language Learning, pp. 407-418, 2025
     page: https://aclanthology.org/2025.conll-1.27/
@@ -11,13 +11,13 @@ main:
     page: https://aclanthology.org/2025.acl-long.483/
     notes: Proceedings paper
 
-   - title: "Lack of c-command in coordinate structures: Evidence from binding"
+  - title: "Lack of c-command in coordinate structures: Evidence from binding"
     authors: Alan Hezao Ke, Andrew McInnerney, Yushi Sugimoto 
     conference: Natural Language and Linguistic Theory, Volume 43, pp. 2139-2178 2025 
     page: https://doi.org/10.1007/s11049-025-09662-8
     notes: Journal article
 
-   - title: "JCoLA: Japanese Corpus of Linguistic Acceptability"
+  - title: "JCoLA: Japanese Corpus of Linguistic Acceptability"
     authors:  Taiga Someya, Yushi Sugimoto, Yohei Oseki
     conference: Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), pp. 9477-9488, 2024
     page: https://aclanthology.org/2024.lrec-main.828/
