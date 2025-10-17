@@ -4,44 +4,37 @@ main:
     conference: Proceedings of the 29th Conference on Computational Natural Language Learning, pp. 407-418, 2025
     page: https://aclanthology.org/2025.conll-1.27/
     notes: Proceedings paper
-
   - title: "If Attention Serves as a Cognitive Model of Human Memory Retrieval, What is the Plausible Memory Representation?"
     authors: Ryo Yoshida, Shinnosuke Isono, Kohei Kajikawa, Taiga Someya, Yushi Sugimoto, Yohei Oseki 
     conference: Proceedings of the Annual Meeting of the Association for Computational Linguistics (Volume 1, Long Papers), pp. 9795-9812, 2025
     page: https://aclanthology.org/2025.acl-long.483/
     notes: Proceedings paper
-
   - title: "Lack of c-command in coordinate structures: Evidence from binding"
     authors: Alan Hezao Ke, Andrew McInnerney, Yushi Sugimoto 
     conference: Natural Language and Linguistic Theory, Volume 43, pp. 2139-2178 2025 
     page: https://doi.org/10.1007/s11049-025-09662-8
     notes: Journal article
-
   - title: "JCoLA: Japanese Corpus of Linguistic Acceptability"
     authors:  Taiga Someya, Yushi Sugimoto, Yohei Oseki
     conference: Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), pp. 9477-9488, 2024
     page: https://aclanthology.org/2024.lrec-main.828/
     notes: Proceedings paper
-
   - title: "Localizing Syntactic Composition with Left-Corner Recurrent Neural Network Grammars"
     authors: Yushi Sugimoto, Ryo Yoshida, Hyeonjeong Jeong, Masatoshi Koizumi, Jonathan R. Brennan, Yohei Oseki
     conference: Neurobiology of Language,  vol. 5, no. 1, pp. 201-224. 2024.
     code: https://github.com/osekilab/RNNG-fMRI
     page: https://doi.org/10.1162/nol_a_00118
     notes: Journal article
-
   - title: "Merge and the Strong Minimalist Thesis (Elements in Generative Syntax)"
     authors: Noam Chomsky, T. Daniel Seely, Robert C. Berwick, Sandiway Fong, M. A. C. Huybregts, Hisatsugu Kitahara, Andrew McInnerney, Yushi Sugimoto
     conference: Cambridge University Press. 2023.
     page: https://www.cambridge.org/core/elements/abs/merge-and-the-strong-minimalist-thesis/F44DB97F68BB3A5CDB58A4684A3E5E6B
     notes: Book
-
   - title: "Backgroundedness Predicts Island Status of Non-finite Adjuncts in English"
     authors: Savithry Namboodiripad, Nicole Cuneo, Mathew A Kramer, Yourdanis Sedarous, Felicia Bisnath, Yushi Sugimoto, Adele Goldberg
     conference: Proceedings of the 44th Annual Meeting of the Cognitive Science Society, pp. 1087-1093. 2022.
     page: https://escholarship.org/uc/item/236280w2#main
-    notes: Proceeding paper
-
+    notes: Proceedings paper
   - title: "A Late-Insertion-Based Exoskeletal Approach to the Hybrid Nature of Functional Features in Creole Languages"
     authors: Yushi Sugimoto, Marlyse Baptista
     conference: Languages 7:2, 2022.
