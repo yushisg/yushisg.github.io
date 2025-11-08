@@ -13,6 +13,7 @@ Before joining the University of Osaka, I was a post-doctoral research fellow at
 
 ## News
 - **[Sept. 2025]** A paper was presented at [ISBFC](https://conf.hit.ac.il/isbfc/).
+
 <!-- - **[April. 2025]** I'm going to give a talk on recent developments in minimalism at [KEIO linguistic Colloquium](https://www.icl.keio.ac.jp/colo/2025/04/202551011.html).
 - **[April. 2025]** An abstract was accepted to [CogSci2025](https://cognitivesciencesociety.org/cogsci-2025/) as a poster presentation.
 - **[Mar. 2025]** Three papers were presented at [NLP2025](https://anlp.jp/nlp2025/).
