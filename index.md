@@ -12,6 +12,7 @@ Before joining the University of Osaka, I was a post-doctoral research fellow at
 - **Computational Neurolinguistics:** naturalistic methods; cognitive modeling; fMRI, MEG, EEG
 
 ## News
+- **[Dec. 2025]** I gave a talk at Neo-Grammar Circle (NGC).
 - **[Sept. 2025]** A paper was presented at [ISBFC](https://conf.hit.ac.il/isbfc/).
 
 <!-- - **[April. 2025]** I'm going to give a talk on recent developments in minimalism at [KEIO linguistic Colloquium](https://www.icl.keio.ac.jp/colo/2025/04/202551011.html).
