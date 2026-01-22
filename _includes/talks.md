@@ -4,9 +4,9 @@
 
 <ul style="margin:0 0 5px;">
  <li><a href="https://conf.hit.ac.il/isbfc/"><autocolor>Itsuki Hamada, Yushi Sugimoto, Yohei Oseki, Michiru Makuuchi, and Hiromu Sakai. 2025.  Neural correlates of prediction in language comprehension: An MEG study on Japanese classifier-noun processing International Symposium on Brain Function and Cognition: Neural Codes of Language and Action. Waseda University, Tokyo. Sept 9th, 2025</autocolor></a></li>
-  <li><a href="https://cognitivesciencesociety.org/cogsci-2025/"><autocolor>Shinnosuke Isono*, Kohei Kajikawa*, Yushi Sugimoto*, Masayuki Asahara, and Yohei Oseki.
+  <!-- <li><a href="https://cognitivesciencesociety.org/cogsci-2025/"><autocolor>Shinnosuke Isono*, Kohei Kajikawa*, Yushi Sugimoto*, Masayuki Asahara, and Yohei Oseki.
   2025. Exploring spatial and temporal dynamics of language comprehension in the brain with CCG. The 47th Annual Meeting of the Cognitive Science Society (CogSci). Marriott Marquis,
-  San Francisco, US. July 31st, 2025 [*co-first authors, poster]</autocolor></a></li>
+  San Francisco, US. July 31st, 2025 [*co-first authors, poster]</autocolor></a></li> -->
   <!-- <li><a href="https://www.anlp.jp/proceedings/annual_meeting/2025/"><autocolor>Yushi Sugimoto, Ryo Yoshida, Hyeojeong Jeong, Akitake Kanno, Masatoshi Koizumi, and Yohei Oseki. 2025. BCCWJ-MEG: Development of Japanese Magnetocencephalography Data. The Thirty-first Annual Meeting of the Association for Natural Language Processing Nagasaki, Japan, March 12, 2025.  [poster]</autocolor></a></li>
   <li><a href="https://www.neurolang.org/2024/presentation/?id=322"><autocolor>Yushi Sugimoto, Ryo Yoshida, Hyeojeong Jeong, Akitake Kanno, Masatoshi Koizumi, and Yohei Oseki. 2024.Investigating Syntactic Attention in the brain. Society for the Neurobiology of Language 16th Annual Meeting, Brisbane, Australia, October 24-26, 2024.  [poster]</autocolor></a></li> -->
 </ul>
@@ -15,7 +15,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href=""><autocolor>Modeling Syntactic Composition in the Brain with Computational Models. ISBFC Neural Codes Seminar 2025, September 3rd, 2025, Karuizawa, Nagano, Japan </autocolor></a></li>
-  <li><a href="https://www.icl.keio.ac.jp/colo/2025/04/202551011.html"><autocolor>Current Issues in Minimalism : GK, MC and beyond?, May 10-11th, 2025, Keio University, Tokyo, Japan  </autocolor></a></li>
+  <!-- <li><a href="https://www.icl.keio.ac.jp/colo/2025/04/202551011.html"><autocolor>Current Issues in Minimalism : GK, MC and beyond?, May 10-11th, 2025, Keio University, Tokyo, Japan  </autocolor></a></li> -->
   <!-- <li><a href="https://www.ctc.lang.osaka-u.ac.jp/"><autocolor>Merge of Functional Heads: A  Theory of Amalgamation, Internatioanl Research Network for the Human Language Faculty, JSPS Core-to-Core Program, December 7th, 2024, Osaka University, Osaka, Japan  </autocolor></a></li>
   <li><a href=""><autocolor> Modeling Syntactic Composition in the brain with Small/Syntactic Language Models, talk at Hiromu Sakai's lab meeting, Waseda University, Tokyo, Japan, Novermber 5th, 2024 </autocolor></a></li>
   <li><a href="https://web.sas.upenn.edu/syntax-lab/"><autocolor>Recombination of Functional Features: A Late-Insertion-Based Exoskeletal Approach to Creoles (with Marlyse Baptista), Penn Syntax Lab meeting, Pennsylvania, US, April 7th, 2023 [online] </autocolor></a></li>
