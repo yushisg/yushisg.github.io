@@ -13,7 +13,7 @@ Before joining the University of Osaka, I was a post-doctoral research fellow at
 
 ## News
 - **[March. 2026]** I gave a talk at Tohoku University.
-- **[March. 2026]** A paper was presented at NLP2026@Utunomiya.
+- **[March. 2026]** A paper was presented at NLP2026@Utsunomiya.
 - **[March. 2026]** I gave a talk at Kyushu University.
 
 
