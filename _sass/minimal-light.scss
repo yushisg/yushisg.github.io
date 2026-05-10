@@ -1,6 +1,10 @@
 .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
+
+.publications ol.bibliography li {
+  margin-bottom: 4px;
+}
 
 .social-icons a{
   display:inline-block;
