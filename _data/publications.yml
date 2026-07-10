@@ -5,9 +5,13 @@ main:
     page: https://www.biorxiv.org/content/10.64898/2026.07.05.736621v1
     notes: Preprint
     code: https://github.com/osekilab/BCCWJ-Brain
-    dataset (fMRI): https://openneuro.org/datasets/ds007752
-    dataset (MEG): https://openneuro.org/datasets/ds007763
-    dataset (EEG): https://openneuro.org/datasets/ds007753
+    datasets:
+      - label: fMRI
+        url: https://openneuro.org/datasets/ds007752
+      - label: MEG
+        url: https://openneuro.org/datasets/ds007763
+      - label: EEG
+        url: https://openneuro.org/datasets/ds007753
   - title: "Investigating Psychometric Predictive Power of Syntactic Attention"
     authors: Ryo Yoshida, Yushi Sugimoto, Yohei Oseki
     conference: Proceedings of the 29th Conference on Computational Natural Language Learning, pp. 407-418, 2025
