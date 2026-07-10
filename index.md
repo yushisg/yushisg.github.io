@@ -12,6 +12,7 @@ Before joining the University of Osaka, I was a post-doctoral research fellow at
 - **Computational Neurolinguistics:** naturalistic methods; cognitive modeling; fMRI, MEG, EEG
 
 ## News
+- **[July. 2026]** We have released BCCWJ-Brain, a dataset that includes fMRI, MEG, and EEG data.
 - **[March. 2026]** I gave a talk at Tohoku University.
 - **[March. 2026]** A paper was presented at NLP2026@Utsunomiya.
 - **[March. 2026]** I gave a talk at Kyushu University.
