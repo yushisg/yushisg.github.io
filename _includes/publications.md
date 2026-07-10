@@ -32,7 +32,7 @@
       {% endif %}
       {% if link.datasets %}
       {% for ds in link.datasets %}
-      <a href="{{ ds.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Data ({{ ds.label }})</a>
+      <a href="{{ ds.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">{{ ds.label }}</a>
       {% endfor %}
       {% endif %}
       {% if link.bibtex %} 
