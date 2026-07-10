@@ -1,5 +1,5 @@
 main:
-  -title: "BCCWJ-Brain: A Multi-Modal fMRI, MEG, and EEG Dataset of Naturalistic Japanese Reading"
+  - title: "BCCWJ-Brain: A Multi-Modal fMRI, MEG, and EEG Dataset of Naturalistic Japanese Reading"
     authors: Yushi Sugimoto, Masayuki Asahara, Hyeonjeong Jeong, Akitake Kanno, Masatoshi Koizumi, Yohei Oseki
     conference: bioRxiv, 2026.
     page: https://www.biorxiv.org/content/10.64898/2026.07.05.736621v1
