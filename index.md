@@ -10,6 +10,7 @@ Before joining the University of Osaka, I was a post-doctoral research fellow at
 
 ## Research Interests
 - **Computational Neurolinguistics:** naturalistic methods; cognitive modeling; fMRI, MEG, EEG
+- **Syntax:** creole formation 
 
 ## News
 - **[July. 2026]** We have released BCCWJ-Brain, a dataset that includes fMRI, MEG, and EEG data.
