@@ -13,7 +13,7 @@ Before joining the University of Osaka, I was a post-doctoral research fellow at
 - **Syntax:** Creole formation 
 
 ## News
-- **[Oct. 2026]** Two posters were poresented at SNL2026@Geneva
+- **[Oct. 2026]** Two posters were presented at SNL2026@Geneva
 - **[July. 2026]** We have released BCCWJ-Brain, a dataset that includes fMRI, MEG, and EEG data.
 
 {% include_relative _includes/publications.md %}
