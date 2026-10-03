@@ -1,0 +1,21 @@
+/* Sidebar navigation */
+.site-nav { margin: 0.5rem 0 0.25rem; font-size: 1rem; }
+.site-nav a { margin-right: 0.9rem; }
+.site-nav a.active { font-weight: bold; border-bottom: 1px solid var(--global-theme-color); }
+
+/* Blog index */
+.post-list { list-style: none; padding: 0; margin-top: 1.5rem; }
+.post-list li { margin-bottom: 1.25rem; }
+.post-list-date { display: block; font-size: 0.85rem; color: var(--global-text-color-light); }
+.post-list-title { font-weight: bold; }
+.post-list-desc { font-size: 0.95rem; margin-top: 0.15rem; }
+
+/* Single post */
+.post-meta { font-size: 0.85rem; color: var(--global-text-color-light); margin: -0.5rem 0 1.5rem; }
+.post-back { margin-top: 2.5rem; font-size: 0.95rem; }
+
+/* Code in posts: theme hardcodes color #333, which is illegible in dark mode */
+.post code, .post pre { color: inherit; }
+.post code { background: rgba(127, 127, 127, 0.15); padding: 0.1em 0.3em; border-radius: 3px; }
+.post pre { max-width: 100%; background: rgba(127, 127, 127, 0.12); border-color: rgba(127, 127, 127, 0.35); }
+.post pre code { background: none; padding: 0; }

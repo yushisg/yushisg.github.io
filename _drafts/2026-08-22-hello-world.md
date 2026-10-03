@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Hello, world"
+description: A first note.
+---
+
+I was invited to write a review paper on computational psycholinguistics/neurolinguistics, but it was written in Japanese, so this might be a good place to recapture what I wrote there, with a more informal way (and many speculation that perhaps I should not let out in public without valid results or references, but I'll do it anyway). At the end of writing this review paper, I realized that this paper goes back to Brennan's  (2016) paper, so if you want to know more about this content, readers should read it, instead of waisting time here.
+
+The paper that I wrote was basically my version of ways of thinking how to bridge theoretical linguistics to neural basis of language, or what is called linking hypothesis under the framework of David Marr's three levels of analysis (Marr 1982). As a generative linguist, I would like to think what is the fundamental computational principles that enable us to acquire language and how it is implemented in the brain. This is a non-trivial issue. The mapping problem is everywhere (Please read Poeppel, 2012 regarding this), and I'm not pretending that I solve this problem. What we can do is having a fine-grained linking hypotheses. At least we have three levels, computational, algorithmic, and implemenational. Recent development of artificial intelligences makes things much easier to implement algorithmic level, which bridges the computational and implemenational level. So that's the core part of this framework. Or course artificial intellgence, I mean in this case, langauge models provide the next word prediction (conditional probability), which have to be transformed into human behavioral data or brain data. We call this a response function.
+
+Another ingredient is the naturalistic approach. Previous works in psycholinguisics and neurolinguistics used control experiments where the stimuli were derived from theoretical perspectives, which often get really complicated expression, and the participants to the experiment are exposed to those for a few hours. This is not what we do in our daily lives. Naturalistic appraches use movies or story from audiobook as stimuli, so it's rather an uncontrol experiment. 
